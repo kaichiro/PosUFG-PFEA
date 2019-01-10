@@ -1,11 +1,11 @@
 import * as React from "react";
 
-import MenuComponent from "../semantic/menu/MenuComponents";
+import CardGroupComponent from "./CardGroupComponent";
 
 function HomeComponent() {
   return (
     <div>
-      <MenuComponent />
+      <CardGroupComponent />
     </div>
   );
 }

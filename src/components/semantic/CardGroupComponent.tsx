@@ -1,14 +1,14 @@
 import * as React from "react";
 import { Card } from "semantic-ui-react";
 
-import CardComponent from "../card/CardComponent";
+import CardComponent from "./CardComponent";
 
 const divStyle = { padding: 5 };
 
 function CardGroupComponent() {
   return (
     <div style={divStyle}>
-      <Card.Group stackable={true} centered={true} /*itemsPerRow={2}*/>
+      <Card.Group stackable={true} centered={true} itemsPerRow={2}>
         <CardComponent
           description="Mochila Dell Professional - 15,6''"
           oldPrice="R$ 178,99"
