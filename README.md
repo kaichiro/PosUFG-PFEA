@@ -52,6 +52,6 @@ yarn start
 2 - Incomplete design, missing cart checkout pages, payment and finalized.
 ```
 ```sh
-obs. We did not have the ability to link the products to be redirected to the cart, even though it is dated 01/27/2019, we will try to complete the project.
+obs. We did not have the ability to link the products to be redirected to the cart, even though it is dated <br />01/27/2019, we will try to complete the project.
 ```
 ---

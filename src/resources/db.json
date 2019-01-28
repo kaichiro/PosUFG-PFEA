@@ -1,5 +1,5 @@
 {
-  "Categories": ["Acessórios", "Notebook", "Desktops","kaichiro"],
+  "Categories": ["Automotivo", "Informatica", "Eletroportáteis","Games"],
   "Products": [
     {
       "id": 10,
@@ -9,7 +9,7 @@
       "oldPrice": 199.99,
       "plots": 3,
       "rating": 3,
-      "category": "Acessórios",
+      "category": "Informatica",
       "topSelling": 1,
       "infos": "A mochila Dell Professional 15 armazena com segurança seu notebook de 15\" e tablet dentro de um compartimento exclusivo para notebook forrado com veludo e um bolso para tablet durante seus trajetos diários."
     },
@@ -21,7 +21,7 @@
       "oldPrice": 198.9,
       "plots": 2,
       "rating": 2,
-      "category": "Acessórios",
+      "category": "Informatica",
       "topSelling": 1,
       "infos": "A mochila Dell Professional 15 armazena com segurança seu notebook de 15\" e tablet dentro de um compartimento exclusivo para notebook forrado com veludo e um bolso para tablet durante seus trajetos diários."
     
@@ -34,7 +34,7 @@
       "oldPrice": 4578,
       "plots": 10,
       "rating": 4,
-      "category": "Notebook",
+      "category": "Informatica",
       "topSelling": 0,
       "infos": "A mochila Dell Professional 15 armazena com segurança seu notebook de 15\" e tablet dentro de um compartimento exclusivo para notebook forrado com veludo e um bolso para tablet durante seus trajetos diários."
     },
@@ -46,7 +46,7 @@
       "oldPrice": 2999,
       "plots": 10,
       "rating": 3,
-      "category": "Notebook",
+      "category": "Informatica",
       "topSelling": 1,
       "infos": "A mochila Dell Professional 15 armazena com segurança seu notebook de 15\" e tablet dentro de um compartimento exclusivo para notebook forrado com veludo e um bolso para tablet durante seus trajetos diários."
     
@@ -59,7 +59,7 @@
       "oldPrice": 4890,
       "plots": 10,
       "rating": 3,
-      "category": "Notebook",
+      "category": "Informatica",
       "topSelling": 0,
       "infos": "A mochila Dell Professional 15 armazena com segurança seu notebook de 15\" e tablet dentro de um compartimento exclusivo para notebook forrado com veludo e um bolso para tablet durante seus trajetos diários."
     
@@ -72,7 +72,7 @@
       "oldPrice": 15998,
       "plots": 10,
       "rating": 4,
-      "category": "Notebook",
+      "category": "Informatica",
       "topSelling": 0,
       "infos": "A mochila Dell Professional 15 armazena com segurança seu notebook de 15\" e tablet dentro de um compartimento exclusivo para notebook forrado com veludo e um bolso para tablet durante seus trajetos diários."
     
@@ -85,35 +85,97 @@
       "oldPrice": 669,
       "plots": 3,
       "rating": 0,
-      "category": "Acessórios",
+      "category": "Informatica",
       "topSelling": 1,
       "infos": "A mochila Dell Professional 15 armazena com segurança seu notebook de 15\" e tablet dentro de um compartimento exclusivo para notebook forrado com veludo e um bolso para tablet durante seus trajetos diários."
     
     },
     {
       "id": 80,
-      "description": "Monitor Alienware Gamer Free-Sync de 24.5\" AW2518HF",
-      "image": "https://i.dell.com/is/image/DellContent//content/dam/global-site-design/product_images/peripherals/output_devices/dell/monitors/alienware_25_aw2518hf/pdp/alienware-25-monitor-aw2518hf-pdp-module-hero.jpg?fmt=png-alpha",
-      "newPrice": 1978,
-      "oldPrice": 2298,
-      "plots": 10,
-      "rating": 0,
-      "category": "Acessórios",
+      "description": "Liquidificador Arno Power Max 3,1L 15 Velocidades Preto - 1000W - 220V",
+      "image": "https://images-americanas.b2w.io/produtos/01/00/offers/01/00/item/132768/4/132768450_1GG.jpg",
+      "newPrice": 128,
+      "oldPrice": 150,
+      "plots": 1,
+      "rating": 3,
+      "category": "Eletroportáteis",
       "topSelling": 0,
-      "infos": "A mochila Dell Professional 15 armazena com segurança seu notebook de 15\" e tablet dentro de um compartimento exclusivo para notebook forrado com veludo e um bolso para tablet durante seus trajetos diários."
+      "infos": "A Arno, é uma empresa brasileira de produtos eletrodomésticos, focada principalmente em produtos eletroportáteis. Em 1997 ela foi adquirida pelo Grupo SEB e, a partir de então deu o ponta pé inicial para ser uma referência mundial em eletrodomésticos. Presente em mais de 120 países, a Arno oferece soluções completas para o lar."
     
     },
     {
       "id": 90,
-      "description": "All in One Inspiron 24\"",
-      "image": "https://i.dell.com/das/dih.ashx/527x340/sites/imagecontent/consumer/merchandizing/pt/publishingimages/marketing%20online/fy19/launches/punisher/product_hero_1_white.jpg",
-      "newPrice": 3300,
-      "oldPrice": 3600,
+      "description": "Cafeteira Flavor Programável + Torradeira Chrome Vermelha Oster - 220V",
+      "image": "https://images-americanas.b2w.io/produtos/01/00/item/132934/7/132934737_1GG.jpg",
+      "newPrice": 279.99,
+      "oldPrice": 379.99,
+      "plots": 10,
+      "rating": 5,
+      "category": "Eletroportáteis",
+      "topSelling": 0,
+      "infos": "Com a Torradeira da Oster isso é possível, poderá tostar; assar e até descongelar, conta com 7 níveis de mais claro ou mais escuro, assim poderá optar por diversas opções de lanches e escolher a intensidade que deseja torrar os alimentos. Uma excelente torradeira que garante praticidade e qualidade. Aproveite!"
+    
+    },
+    {
+      "id": 11,
+      "description": "Kit 04 Pneus Pirelli 185/60R14 82H Formula Energy\"",
+      "image": "https://images-americanas.b2w.io/produtos/01/00/sku/44178/5/44178552_1GG.jpg",
+      "newPrice": 856,
+      "oldPrice": 999,
       "plots": 10,
       "rating": 4,
-      "category": "Desktops",
+      "category": "Automotivo",
       "topSelling": 0,
-      "infos": "A mochila Dell Professional 15 armazena com segurança seu notebook de 15\" e tablet dentro de um compartimento exclusivo para notebook forrado com veludo e um bolso para tablet durante seus trajetos diários."
+      "infos": "Pneu com ótimo desempenho em pistas secas e molhadas, garantindo maior segurança e aderência. Baixa resistência ao rolamento e baixo nível de ruído. Pneu com desempenho equilibrado, melhor custo benefício, para carros de pequeno e médio porte."
+    
+    },
+    {
+      "id": 12,
+      "description": "Bateria Automotiva Moura 70a Inteligente - M70kd",
+      "image": "https://images-americanas.b2w.io/produtos/01/00/item/13958/2/13958204_1GG.jpg",
+      "newPrice": 506,
+      "oldPrice": 550,
+      "plots": 10,
+      "rating": 0,
+      "category": "Automotivo",
+      "topSelling": 0,
+      "infos": "Vida Útil Até 50 Superior Á Média Do Mercado. Livre De Manutenção. Original De Montadora. Homologada Pelo Inmetro"
+    
+    },{
+      "id": 13,
+      "description": "Game Pro Evolution Soccer 2019 - PS4",
+      "image": "https://images-americanas.b2w.io/produtos/01/00/offers/01/00/item/133764/4/133764451_1GG.png",
+      "newPrice": 99,
+      "oldPrice": 99,
+      "plots": 1,
+      "rating": 5,
+      "category": "Games",
+      "topSelling": 0,
+      "infos": "'O Poder Do Futebol' é a principal mensagem que engloba todas as novidades que estão chegando no PES 2019, o que ocorre graças ao compromisso de lançar a nova versão exclusivamente para os consoles da atual geração. Isso permite que o PES recrie o futebol de uma forma nunca antes vista, dando suporte para a tecnologia 4K HDR em todas as plataformas e oferecendo recursos visuais e movimentos totalmente realistas. O verdadeiro poder do PES está em sua jogabilidade, que foca no impacto da individualidade dos jogadores através de atributos e movimentos específicos. Jogando o PES 2019 você terá a habilidade de finalização do Luis Suárez, a capacidade única de drible do Philippe Coutinho e a precisão de passe da lenda icônica David Beckham. Fora do gramado, licenças e modos de jogo terão grandes mudanças, incluindo menus que apresentarão as novas ligas de todo o mundo. Isso adiciona um novo conceito para o myClub e para a Master Liga, que trará aos fãs uma experiência mais profunda além da premiada jogabilidade. Com uma série de novas Lendas adicionadas ao jogo, uma versão dedicada ao David Beckham e o lançamento mundial em agosto, os fãs do PES poderão vivenciar o Poder Do Futebol mais cedo do que nunca."
+    
+    },{
+      "id": 14,
+      "description": "Game Grand Theft Auto V - Xbox One",
+      "image": "https://images-americanas.b2w.io/produtos/01/00/item/120857/6/120857631_1GG.png",
+      "newPrice": 124,
+      "oldPrice": 124,
+      "plots": 4,
+      "rating": 4,
+      "category": "Games",
+      "topSelling": 0,
+      "infos": "O  mundo aberto da Rockstar Games que gerou sucesso de crítica chega a uma nova geração, depois da espera finalmente chega o atualizado Grand Theft Auto V! Entre nas vidas de três criminosos muito diferentes, Michael, Franklin e Trevor, enquanto eles arriscam tudo em uma série de assaltos ousados que podem garantir o resto de suas vidas."
+    
+    },{
+      "id": 15,
+      "description": "Cadeira Raidmax Drakon Gaming Dk-709br Marrom/Preto - DK-709BR",
+      "image": "https://images-americanas.b2w.io/produtos/01/00/sku/40684/3/40684306_1GG.jpg",
+      "newPrice": 1095,
+      "oldPrice": 1095,
+      "plots": 10,
+      "rating": 2,
+      "category": "Games",
+      "topSelling": 0,
+      "infos": "- Especificações:Material: CourinoPés em Nylon - Armação de Metal- Informação adicional: Tipo de Espuma: Moldado por Injeção Densidade da Espuma: 50 (Assento) e 45 (Traseira) Braços Ajustáveis: 2D (2 Direções) Tipo de Mecanismo: Butterfly - AjustesPistão, encosto e apoios- Rotação360ºIntervalo de Oscilação: 3~18° Bloqueio de Inclinação: Sim Especificação de Elevação de Gás: 80mm Classe de Elevação de Gás: 4 Ângulo de Ajuste de Apoio de Braços: 90~180° Encosto de Cabeça Ajustável: Sim Tipo de Base: 350mm (Metal) Montagem Necessária: Sim Suporta Até 90 Kgs Altura do Usuário Recomendada: Até 2m"
     
     }
   ]
