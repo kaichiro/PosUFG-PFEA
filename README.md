@@ -46,6 +46,12 @@ yarn
 yarn start
 ```
 
-* NOTE: if you are using Linux or Mac OS, add ```sudo``` before the commands, if necessary.
-
+* NOTES: 
+```sh
+1 - if you are using Linux or Mac OS, add ```sudo``` before the commands, if necessary.
+2 - Incomplete design, missing cart checkout pages, payment and finalized.
+```
+```sh
+obs. We did not have the ability to link the products to be redirected to the cart, even though it is dated 01/27/2019, we will try to complete the project.
+```
 ---
