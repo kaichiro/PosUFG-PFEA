@@ -48,4 +48,3 @@ yarn && yarn start
 * NOTES:
 
 1 - if you are using Linux or Mac OS, add ```sudo``` before the commands, if necessary.
-2 - Incomplete design, missing cart checkout pages, payment and finalized.
