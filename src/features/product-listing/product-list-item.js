@@ -12,6 +12,7 @@ import {
 
 const divStyle = { padding: 7, width: 200 };
 const divImage = { height: 180, width: 180, align: "center" };
+const divDescription = { height: 110 };
 
 export default function ProductListItem(props) {
   return (
@@ -21,7 +22,7 @@ export default function ProductListItem(props) {
           <Image src={props.product.image} height={150} />
         </div>
         <Card.Content>
-          <Card.Header textAlign="left">
+          <Card.Header textAlign="left" style={divDescription}>
             <h3>{props.product.description}</h3>
           </Card.Header>
           <Card.Meta textAlign="right">

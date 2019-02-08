@@ -17,6 +17,7 @@ import { apis } from "../../api/Api";
 
 // const divStyle = { padding: 7, width: 200 };
 const divImage = { height: 180, width: 180, align: "center" };
+const divDescription = { height: 50 };
 
 class ProductsByCategory extends React.Component {
   constructor(props) {
@@ -74,7 +75,7 @@ class ProductsByCategory extends React.Component {
             <Image src={product.image} height={150} />
           </div>
           <Card.Content>
-            <Card.Header textAlign="left">
+            <Card.Header textAlign="left" style = {divDescription}>
               <h3>{product.description}</h3>
             </Card.Header>
             <Card.Meta textAlign="right">
